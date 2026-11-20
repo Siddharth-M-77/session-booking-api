@@ -35,7 +35,7 @@ A production-quality REST API built with Node.js, TypeScript, Express, MongoDB, 
 ## Folder Structure
 
 ```
-booking-assignment/
+session-booking-api/
 ├── scripts/
 │   └── seed.ts                  # Seeds 2-3 initial teachers into MongoDB
 ├── src/
@@ -95,8 +95,8 @@ booking-assignment/
 
 ### 1. Clone the repository
 ```bash
-git clone <repository_url>
-cd booking-assignment
+git clone https://github.com/Siddharth-M-77/session-booking-api.git
+cd session-booking-api
 ```
 
 ### 2. Install dependencies
